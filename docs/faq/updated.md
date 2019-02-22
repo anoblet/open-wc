@@ -13,7 +13,7 @@ updated(changedProperties) {
 }
 ```
 
-Keep in mind changedProperties provides the previous values of properties. To get the updated value, use this.
+Keep in mind changedProperties provides the previous values of properties. To get the updated value, use ```this```.
 
 ```
 updated(changedProperties) {
